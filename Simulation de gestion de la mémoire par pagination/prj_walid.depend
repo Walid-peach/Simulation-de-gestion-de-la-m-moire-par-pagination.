@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1616171338 source:c:\users\user\desktop\prj_walid\affichage.c
+	"header.h"
+
+1616169844 c:\users\user\desktop\prj_walid\affichage.h
+	"header.h"
+	"Ajouter.h"
+	"Suppression.h"
+	"Recherche.h"
+	"Initialiser.h"
+
+1616172091 c:\users\user\desktop\prj_walid\header.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1616171338 source:c:\users\user\desktop\prj_walid\ajouter.c
+	"header.h"
+
+1616169844 c:\users\user\desktop\prj_walid\ajouter.h
+	"header.h"
+	"Suppression.h"
+	"Affichage.h"
+	"Recherche.h"
+	"Initialiser.h"
+
+1616171338 source:c:\users\user\desktop\prj_walid\initialiser.c
+	"header.h"
+
+1616169844 c:\users\user\desktop\prj_walid\initialiser.h
+	"header.h"
+	"Ajouter.h"
+	"Suppression.h"
+	"Affichage.h"
+	"Recherche.h"
+
+1616171865 source:c:\users\user\desktop\prj_walid\main.c
+	"header.h"
+
+1616171338 source:c:\users\user\desktop\prj_walid\recherche.c
+	"header.h"
+
+1616169844 c:\users\user\desktop\prj_walid\recherche.h
+	"header.h"
+	"Ajouter.h"
+	"Suppression.h"
+	"Affichage.h"
+	"Initialiser.h"
+
+1616171338 source:c:\users\user\desktop\prj_walid\suppression.c
+	"header.h"
+
+1616169844 c:\users\user\desktop\prj_walid\suppression.h
+	"header.h"
+	"Ajouter.h"
+	"Affichage.h"
+	"Recherche.h"
+	"Initialiser.h"
+
+1616238084 source:c:\users\walid\desktop\prj_walid\affichage.c
+	"Affichage.h"
+
+1616169844 c:\users\walid\desktop\prj_walid\affichage.h
+	"header.h"
+	"Ajouter.h"
+	"Suppression.h"
+	"Recherche.h"
+	"Initialiser.h"
+
+1616248892 c:\users\walid\desktop\prj_walid\header.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1616169844 c:\users\walid\desktop\prj_walid\ajouter.h
+	"header.h"
+	"Suppression.h"
+	"Affichage.h"
+	"Recherche.h"
+	"Initialiser.h"
+
+1616169844 c:\users\walid\desktop\prj_walid\suppression.h
+	"header.h"
+	"Ajouter.h"
+	"Affichage.h"
+	"Recherche.h"
+	"Initialiser.h"
+
+1616169844 c:\users\walid\desktop\prj_walid\recherche.h
+	"header.h"
+	"Ajouter.h"
+	"Suppression.h"
+	"Affichage.h"
+	"Initialiser.h"
+
+1616169844 c:\users\walid\desktop\prj_walid\initialiser.h
+	"header.h"
+	"Ajouter.h"
+	"Suppression.h"
+	"Affichage.h"
+	"Recherche.h"
+
+1616238084 source:c:\users\walid\desktop\prj_walid\ajouter.c
+	"Ajouter.h"
+
+1616188219 source:c:\users\walid\desktop\prj_walid\initialiser.c
+	"Initialiser.h"
+
+1616238988 source:c:\users\walid\desktop\prj_walid\main.c
+	"header.h"
+
+1616238204 source:c:\users\walid\desktop\prj_walid\recherche.c
+	"Recherche.h"
+
+1616238988 source:c:\users\walid\desktop\prj_walid\suppression.c
+	"Suppression.h"
+
